@@ -26,14 +26,21 @@ const journey: RouteStop[] = [
     description: 'Developed Java applications with core OOP principles on real-time project scenarios, and wrote and optimized SQL queries for efficient data handling.',
   },
   {
-    id: '03',
+  id: '03',
+  year: '2025',
+  title: 'WEB DEVELOPMENT INTERN',
+  organization: 'Cognifyz Technologies',
+  description: 'Completed a web development internship from September to October 2025, demonstrating dedication, attention to detail, communication, and a willingness to learn new technologies.'
+},
+  {
+    id: '04',
     year: '2022 - 2026',
     title: 'B.E. COMPUTER SCIENCE',
     organization: 'PRINCE SHRI VENKATESHWARA PADMAVATHY ENGINEERING COLLEGE,CHENNAI',
     description: 'Graduated with a CGPA of 8.15/10.',
   },
   {
-    id: '04',
+    id: '05',
     year: '2021 - 2022',
     title: 'HIGHER SECONDARY (HSC)',
     organization: 'NIRMALA GIRLS HIGHER SECONDARY SCHOOL, ARIYALUR',

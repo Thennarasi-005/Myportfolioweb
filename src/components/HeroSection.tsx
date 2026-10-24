@@ -234,7 +234,7 @@ export const HeroSection: React.FC = () => {
 
               {/* Download Resume Button */}
               <motion.a
-                href="https://drive.google.com/file/d/1CjyVjAf8t8YUGbQd3Ph1mg4g1-U5sY_m/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1jRlaxjwuV1_cjR3mXPP6drvrAJVAylJV/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 onMouseEnter={() => setIsHovered(true)}
